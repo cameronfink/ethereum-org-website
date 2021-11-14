@@ -174,6 +174,26 @@ The successor project to Parity Ethereum client is [Open Ethereum](https://githu
 
 The ["Spin up your own Ethereum node"](/developers/docs/nodes-and-clients/run-a-node/#getting-the-client) resource on ethereum.org includes a section for downloading, installing, and running an Ethereum client.
 
+### Aleth {#aleth}
+
+Deprecated on October 6, 2021
+
+**Summary**
+
+Aleth was an Ethereum client written in C++.
+
+**Archives**
+
+[Archived GitHub repo](https://github.com/ethereum/aleth)
+
+**History**
+
+Aleth was the third most popular client for Ethereum before being deprecated on October 6, 2021.
+
+**Alternatives**
+
+[Geth](https://geth.ethereum.org/) is a well-known altenative Ethereum client.
+
 ### Trinity {#trinity}
 
 <p align="center">
